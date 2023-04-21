@@ -3,10 +3,9 @@
 </p>
 
 <h1 align="center">
-  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Rachana here!! 
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> Rachana here!! 
 </h1>
 
-===============================================================================================================================
 
 An Undergraduate Engineering Student
 ------------------------------------
