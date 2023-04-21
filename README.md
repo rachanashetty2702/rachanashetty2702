@@ -1,4 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rachana
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="200"/>
+</p>
+
+<h1 align="center">
+  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Rachana here!! 
+</h1>
+
 ===============================================================================================================================
 
 An Undergraduate Engineering Student
